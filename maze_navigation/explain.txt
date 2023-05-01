@@ -1,0 +1,8 @@
+The experiment includes a 3x4 keypad, and an LCD
+Press the keypad for the first time to determine the rotation angle, and press the keypad for the second time to determine the running time
+
+When pressing 2 or 8 in the first segment, the second segment 123456789 is the walking distance
+When pressing 4 for the first section, press 1 for the second section to rotate 90 degrees counterclockwise to the front left, press 4 to rotate 180 degrees counterclockwise, and press 7 to rotate 90 degrees clockwise to the left and rear
+Press 6 for the first section, press 3 for the second section to rotate 90 degrees clockwise to the front right, press 6 to rotate 180 degrees clockwise, and press 9 to rotate 90 degrees counterclockwise to the right and rear
+
+Special circumstances: when pressing *, repeat the previous function; when pressing #, the trolley should stop immediately no matter what happens; when pressing 5, it rotates 360 clockwise; when pressing 0, it rotates 360 counterclockwise
